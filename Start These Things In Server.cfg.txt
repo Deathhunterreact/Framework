@@ -2,8 +2,9 @@
 set es_enableCustomData 1 
 set mysql_connection_string "server=localhost;database=essentialmode;userid=root;"
 
-
+#HUD
 start trew_hud_ui
+
 #[Framework]
 start cron
 start async
